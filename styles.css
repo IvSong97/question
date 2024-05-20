@@ -9,17 +9,19 @@ body {
 #noButton {
     position: absolute;
     margin-left: 150px;
+    margin-bottom: 100px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
     margin-right: 150px;
+    margin-bottom: 100px;
 }
 
 .header_text {
     font-family: 'Nunito';
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
     color: rgb(255, 255, 255);
     text-align: center;
